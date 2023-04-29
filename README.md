@@ -1,9 +1,9 @@
 # whisper
-Simple experiment with whisper AI 
+Simple experiment with Whisper AI 
 
 ## Background
 ### 
-Whisper AI is described as a speech recognition model. It's an AI tool that is designed to recognize speech, translate, transcribe, build captions, among other things. 
+Whisper AI is a speech recognition model. It's an AI tool designed by Open AI that recognizes and transcribes audio files. It's extremely fast and adaptable, and you can adjust your model size to either improve accuracy (larger) or speed (smaller). The tool can write captions, translate languages, and search text for language patterns. It is really fun to experiment with. 
 
 ## Getting started
 I'm going to give a quick over view of what you need to get started then run through some of the experiments I tried. 
