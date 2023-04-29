@@ -27,5 +27,8 @@ It will also return several new files, all in different formats, that contains a
 ### Experimentations
 I built a audio recorder in Python using `pyaudio` and `wave`. In its current iteration it works as a voice memo app. And it pairs well with `Whisper` to record then transcribe audio files. 
 
-
+### Next Steps 
+- [X] Build audio recording app
+- [ ] Automatically transcribe every audio file recorded in the app using `Whisper`
+- [ ] 
 
