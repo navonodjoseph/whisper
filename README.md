@@ -29,6 +29,6 @@ I built a audio recorder in Python using `pyaudio` and `wave`. In its current it
 
 ### Next Steps 
 - [X] Build audio recording app
-- [ ] Automatically transcribe every audio file recorded in the app using `Whisper`
-- [ ] 
+- [] Automatically transcribe every audio file recorded in the app using `Whisper`
+- [] 
 
