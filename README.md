@@ -20,7 +20,7 @@ FFMPEG documentation: https://ffmpeg.org/documentation.html
 Run 'pip install -U openai-whisper` to instaill Whisper. 
 
 ### Basic Application
-Now you can use Whisper to transcribe audio files. The most basic way to do this is to run `whisper <audiofile>`. The output will return a transcribed document with timestamps: ![whisper](image.png)
+Now you can use Whisper to transcribe audio files. The most basic way to do this is to run `whisper <audiofile>`. The output will return a transcribed document with timestamps: ![whisper](https://files.slack.com/files-pri/T0351JZQ0-F055Y5EBPGR/image.png). 
 
 It will also return several new files, all in different formats, that contains all of the transcribed text. 
 
