@@ -1,16 +1,16 @@
-# whisper
-Simple experiment with Whisper AI 
+# Simple experiments with Whisper
+Launching Whisper AI and conducting two simple experiments  
 
 ## Background
-### 
-Whisper AI is a speech recognition model. It's an AI tool designed by Open AI that recognizes and transcribes audio files. It's extremely fast and adaptable, and you can adjust your model size to either improve accuracy (larger) or speed (smaller). The tool can write captions, translate languages, and search text for language patterns. It is really fun to experiment with. 
+
+Designed by OpenAI, Whisper is a speech recognition model that recognizes and transcribes audio files. It's fast and adaptable. You can adjust your model size to either improve accuracy (larger) or speed (smaller). The tool can trasncribe captions and even translate languages.
 
 ## Getting started
-I'm going to give a quick over view of what you need to get started then run through some of the experiments I tried. 
+I'm going to give a quick overview of what you need to get started then run through some of the experiments I tried. 
 You'll need to use python 3.10 or below to make this model work. You can check what version of python you're running with this command `python --version`. 
 
 ### Install PyTorch
-PyTorch is a compliler you'll need to rewrite some of the bytecode before it's executed. Once you've started your pipenv shell you can`pip install torch torchvision torchaudio` (for Mac). Read more here: PyTorch documentation : https://pytorch.org/docs/stable/dynamo/index.html
+PyTorch is a compliler you'll need to rewrite some of the bytecode before it's executed. The command is `pip install torch torchvision torchaudio` (for Mac). Read more here: PyTorch documentation : https://pytorch.org/docs/stable/dynamo/index.html
 
 ### Install FFMPEG
 This is a tool for reading the different audio files. `pip install ffmpeg`.
